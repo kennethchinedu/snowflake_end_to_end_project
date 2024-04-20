@@ -21,3 +21,4 @@ The clean layer involves transforming the raw data into a structured and usable 
 
 #### d. Consumption Layer
 The final stage of the pipeline is the consumption layer, where the processed data is made available for analytics, reporting, or any other relevant applications. This layer is optimized for easy access and analysis by end-users.
+.....
